@@ -1,0 +1,114 @@
+#title{
+    background-color: #2c7171d0;    
+    color: white;
+    
+}
+.container-fluid{
+    padding: 3% 15% 5%;
+}
+body{
+    font-family: "sans-serif";
+    
+    color:white;
+}
+h1{
+    text-align: center;
+    line-height: 2.5;
+    font-family:  'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 8% auto;
+   
+}
+h2{
+    text-align: center;
+    font-size: 2rem;
+    margin: 5% auto;
+    line-height: 2;
+    color: white;
+    font-weight: normal;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #11999E;
+
+   
+   }
+   p{
+    color: grey;
+    font-size: 1rem;
+    line-height: 2;
+    margin: 40px auto 60px ;    
+   }
+/* navbars */
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+  
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+/* me */
+.my-pics{
+  border-radius: 100%;
+  height: 200px;
+  margin: 10% auto;
+  position: relative;
+  left: 470px;
+}
+/* media-query */
+@media (max-width: 991.98px) {
+    .my-pics{ 
+        position: static;
+     height: 200px;
+        }
+}
+/* features */
+#features{
+    padding: 7% 15%;
+    background-color: #EAF6F6;    
+    color: black;
+   }
+   .features-box{
+    text-align: center;
+    padding: 4.5%;
+   }
+    /* icon */
+.icon{
+    margin-bottom: 5%;
+}
+/* call to action */
+.cta-div{
+    text-align: center;
+
+}
+.cta-h2{
+    color:  #66BFBF;
+    font-size: 2rem;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+.cta-p{
+    width: 30%;
+    margin: 40px auto 60px ;   
+}
+/* footer */
+#footer{
+    background-color:darkgray;
+    text-align: center;
+    padding: 7% 15%;
+}
+.footer-socials{
+    margin: 20px 10px;
+   
+}
+.foot{
+    color: white;
+}
