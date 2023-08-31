@@ -70,7 +70,7 @@ h3{
      height: 200px;
         }
        p{
-        font-size: 5rem;
+        font-size: 1rem;
        line-height:2}
         h1{
             font-size: 5.625rem;
@@ -78,12 +78,12 @@ h3{
             line-height:2.5;
         }
         h2{
-            font-size: 5.5rem;
+            font-size: 2.5rem;
             font-weight: bold;
             line-height:2;
         }
         h3{
-            font-size: 5.25rem;
+            font-size: 1.25rem;
             font-weight: bold;
             line-height:1.5;
         }
