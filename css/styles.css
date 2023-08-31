@@ -64,7 +64,7 @@ h3{
   left: 470px;
 }
 /* media-query */
-@media (max-width: 991.98px) {
+@media (max-width: 768px) {
     .my-pics{ 
         position: static;
      height: 200px;
