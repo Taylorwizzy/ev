@@ -17,12 +17,12 @@ h1{
     font-family:  'Sacramento', cursive;
     font-size: 5.625rem;
     margin: 8% auto;
-    font-weight:bold;
+    font-weight: bold;
    
 }
 h2{
     text-align: center;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     margin: 5% auto;
     line-height: 2;
     color: white;
@@ -31,15 +31,14 @@ h2{
 }
 h3{
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.5rem;
+    font-size: 1.25rem;
     line-height: 1.5;
     color: #11999E;
-font-weight:bold;
-   
+    font-weight: bold;  
    }
    p{
-   color: black;
-    font-size: 2rem;
+    color: black;
+    font-size: 1rem;
     line-height: 2;
     margin: 40px auto 60px ;    
    }
@@ -69,6 +68,20 @@ font-weight:bold;
     .my-pics{ 
         position: static;
      height: 200px;
+        }
+       p{
+        font-size: 1rem;}
+        h1{
+            font-size: 5.625rem;
+            font-weight: bold;
+        }
+        h2{
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+        h3{
+            font-size: 1.25rem;
+            font-weight: bold;
         }
    
 }
